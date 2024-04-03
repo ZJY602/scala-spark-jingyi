@@ -1,5 +1,5 @@
-/build.sbt
-/.idea/
-/.bsp/
-/target/
-/project
+build.sbt
+.idea/
+.bsp/
+target/
+project
