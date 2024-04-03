@@ -2,4 +2,4 @@ build.sbt
 .idea/
 .bsp/
 target/
-project
+project/
